@@ -1,0 +1,377 @@
+{
+  "pages\\about\\index.js -> @/modules/About": {
+    "id": 62544,
+    "files": [
+      "static/css/f08150324baca4d3.css",
+      "static/chunks/1239.8f0d1eb28d4a32db.js",
+      "static/chunks/8929.be87f2342002d69c.js",
+      "static/chunks/3976.7fe623b1d0defdc7.js",
+      "static/chunks/2544.3f683d944c5f1282.js"
+    ]
+  },
+  "pages\\about\\two.js -> @/modules/AboutTwo": {
+    "id": 55170,
+    "files": [
+      "static/css/f08150324baca4d3.css",
+      "static/chunks/1239.8f0d1eb28d4a32db.js",
+      "static/chunks/8929.be87f2342002d69c.js",
+      "static/chunks/3976.7fe623b1d0defdc7.js",
+      "static/chunks/8130.e70c2856c456b456.js",
+      "static/chunks/5170.3732c6ac16fb2931.js"
+    ]
+  },
+  "pages\\blog\\[slug]\\index.js -> @/modules/BlogDetails": {
+    "id": 87976,
+    "files": [
+      "static/chunks/1683.ab6d740199a18c41.js"
+    ]
+  },
+  "pages\\blog\\grid.js -> @/modules/Blog/Grid": {
+    "id": 49870,
+    "files": [
+      "static/chunks/9870.c58a90ed52421870.js"
+    ]
+  },
+  "pages\\blog\\index.js -> @/modules/Blog": {
+    "id": 68655,
+    "files": [
+      "static/chunks/8012.b21ba0d8b27f8ffe.js",
+      "static/chunks/8655.77f09cf9d2e9b734.js"
+    ]
+  },
+  "pages\\blog\\list.js -> @/modules/Blog/List": {
+    "id": 39873,
+    "files": [
+      "static/chunks/9873.0ea1533cb10a1c67.js"
+    ]
+  },
+  "pages\\blog\\sidebar\\left.js -> @/modules/Blog/LeftSidebar": {
+    "id": 23562,
+    "files": [
+      "static/chunks/8012.b21ba0d8b27f8ffe.js",
+      "static/chunks/3562.6f7d5d8d75123658.js"
+    ]
+  },
+  "pages\\blog\\sidebar\\right.js -> @/modules/Blog": {
+    "id": 68655,
+    "files": [
+      "static/chunks/8012.b21ba0d8b27f8ffe.js",
+      "static/chunks/8655.77f09cf9d2e9b734.js"
+    ]
+  },
+  "pages\\cart.js -> @/modules/Cart": {
+    "id": 39139,
+    "files": [
+      "static/chunks/9139.562f96f3255c40c9.js"
+    ]
+  },
+  "pages\\checkout.js -> @/modules/Checkout": {
+    "id": 71000,
+    "files": [
+      "static/chunks/1000.f28183f5298bbb73.js"
+    ]
+  },
+  "pages\\contact.js -> @/modules/Contact": {
+    "id": 81275,
+    "files": [
+      "static/chunks/1275.16a3d1cb5debd79e.js"
+    ]
+  },
+  "pages\\course\\[slug]\\five.js -> @/modules/CourseDetails/Five": {
+    "id": 2034,
+    "files": [
+      "static/chunks/1239.8f0d1eb28d4a32db.js",
+      "static/chunks/8929.be87f2342002d69c.js",
+      "static/chunks/3602.11eafa053ef3342b.js",
+      "static/chunks/6551.3758fc7799f206ed.js",
+      "static/chunks/1941.9abe3bb9d325bf45.js",
+      "static/chunks/2034.0f40de1dd6f66d09.js"
+    ]
+  },
+  "pages\\course\\[slug]\\four.js -> @/modules/CourseDetails/Four": {
+    "id": 73276,
+    "files": [
+      "static/chunks/1239.8f0d1eb28d4a32db.js",
+      "static/chunks/8929.be87f2342002d69c.js",
+      "static/chunks/3602.11eafa053ef3342b.js",
+      "static/chunks/6551.3758fc7799f206ed.js",
+      "static/chunks/2800.2630e373988647bd.js",
+      "static/chunks/3276.d48959617af1f193.js"
+    ]
+  },
+  "pages\\course\\[slug]\\index.js -> @/modules/CourseDetails": {
+    "id": 34135,
+    "files": [
+      "static/chunks/1239.8f0d1eb28d4a32db.js",
+      "static/chunks/3602.11eafa053ef3342b.js",
+      "static/chunks/6551.3758fc7799f206ed.js",
+      "static/chunks/1941.9abe3bb9d325bf45.js",
+      "static/chunks/2800.2630e373988647bd.js",
+      "static/chunks/4135.67173c23470aa20d.js"
+    ]
+  },
+  "pages\\course\\[slug]\\three.js -> @/modules/CourseDetails/Three": {
+    "id": 86,
+    "files": [
+      "static/chunks/1239.8f0d1eb28d4a32db.js",
+      "static/chunks/3602.11eafa053ef3342b.js",
+      "static/chunks/6551.3758fc7799f206ed.js",
+      "static/chunks/1941.9abe3bb9d325bf45.js",
+      "static/chunks/2800.2630e373988647bd.js",
+      "static/chunks/86.86c17c51a2d486f9.js"
+    ]
+  },
+  "pages\\course\\[slug]\\two.js -> @/modules/CourseDetails/Two": {
+    "id": 36495,
+    "files": [
+      "static/chunks/1239.8f0d1eb28d4a32db.js",
+      "static/chunks/3602.11eafa053ef3342b.js",
+      "static/chunks/6551.3758fc7799f206ed.js",
+      "static/chunks/1941.9abe3bb9d325bf45.js",
+      "static/chunks/2800.2630e373988647bd.js",
+      "static/chunks/6495.9623fff503304ba4.js"
+    ]
+  },
+  "pages\\course\\create.js -> @/modules/Course/Create": {
+    "id": 29089,
+    "files": [
+      "static/chunks/9089.5395febcf3ce9111.js"
+    ]
+  },
+  "pages\\course\\four.js -> @/modules/Course/Four": {
+    "id": 12224,
+    "files": [
+      "static/chunks/6210.ac371a53a700dda5.js",
+      "static/chunks/2224.e01be3e814ac3745.js"
+    ]
+  },
+  "pages\\course\\index.js -> @/modules/Course": {
+    "id": 59989,
+    "files": [
+      "static/chunks/228.cff81e8f03774a68.js",
+      "static/chunks/9989.a287b539f29c8b2a.js"
+    ]
+  },
+  "pages\\course\\three.js -> @/modules/Course/Three": {
+    "id": 68163,
+    "files": [
+      "static/chunks/228.cff81e8f03774a68.js",
+      "static/chunks/8163.acde4bdd10d69a8f.js"
+    ]
+  },
+  "pages\\course\\two.js -> @/modules/Course/Two": {
+    "id": 91605,
+    "files": [
+      "static/chunks/6210.ac371a53a700dda5.js",
+      "static/chunks/1605.053fd5591445f8f9.js"
+    ]
+  },
+  "pages\\dashboard\\announcements\\[slug]\\index.js -> @/modules/AnnouncementDetails": {
+    "id": 84108,
+    "files": [
+      "static/chunks/4108.9b6685843834e780.js"
+    ]
+  },
+  "pages\\dashboard\\announcements\\index.js -> @/modules/Dashboard/Announcements": {
+    "id": 51339,
+    "files": [
+      "static/chunks/1339.1d4ce40c39393d36.js"
+    ]
+  },
+  "pages\\dashboard\\assignments\\[slug]\\index.js -> @/modules/AssignmentDetails": {
+    "id": 25737,
+    "files": [
+      "static/chunks/5737.de0bd749f0361e43.js"
+    ]
+  },
+  "pages\\dashboard\\assignments\\index.js -> @/modules/Dashboard/Assignments": {
+    "id": 6040,
+    "files": [
+      "static/chunks/6040.fde7b1172ba23228.js"
+    ]
+  },
+  "pages\\dashboard\\bundles.js -> @/modules/Dashboard/Bundles": {
+    "id": 21804,
+    "files": [
+      "static/chunks/1804.3e50e5101a532df3.js"
+    ]
+  },
+  "pages\\dashboard\\calendar.js -> @/modules/Dashboard/Calendar": {
+    "id": 77602,
+    "files": [
+      "static/css/c104401138f68e2c.css",
+      "static/chunks/814.a1ea047f413a329f.js",
+      "static/chunks/7602.4e13d6981319dfe7.js"
+    ]
+  },
+  "pages\\dashboard\\certificate.js -> @/modules/Dashboard/Certificate": {
+    "id": 14708,
+    "files": [
+      "static/chunks/4708.06e08906c15bd150.js"
+    ]
+  },
+  "pages\\dashboard\\courses.js -> @/modules/Dashboard/Courses": {
+    "id": 62253,
+    "files": [
+      "static/chunks/2253.841558a5db8fe9fb.js"
+    ]
+  },
+  "pages\\dashboard\\enrolled.js -> @/modules/Dashboard/Enrolled": {
+    "id": 7070,
+    "files": [
+      "static/chunks/7070.d7560cf7b414eb9f.js"
+    ]
+  },
+  "pages\\dashboard\\index.js -> @/modules/Dashboard/Home": {
+    "id": 90849,
+    "files": [
+      "static/chunks/849.25b298527180ddb6.js"
+    ]
+  },
+  "pages\\dashboard\\order.js -> @/modules/Dashboard/Order": {
+    "id": 56258,
+    "files": [
+      "static/chunks/6258.05b600abf21e6038.js"
+    ]
+  },
+  "pages\\dashboard\\profile.js -> @/modules/Dashboard/Profile": {
+    "id": 93229,
+    "files": [
+      "static/chunks/3229.b5467d4ce9584974.js"
+    ]
+  },
+  "pages\\dashboard\\question.js -> @/modules/Dashboard/Question": {
+    "id": 5493,
+    "files": [
+      "static/chunks/5493.dcf6360838fd3826.js"
+    ]
+  },
+  "pages\\dashboard\\quiz\\[slug]\\index.js -> @/modules/QuizDetails": {
+    "id": 18990,
+    "files": [
+      "static/chunks/8990.470944ed7f743d20.js"
+    ]
+  },
+  "pages\\dashboard\\quiz\\index.js -> @/modules/Dashboard/Quiz": {
+    "id": 27217,
+    "files": [
+      "static/chunks/7217.9e40c9fb1691ac95.js"
+    ]
+  },
+  "pages\\dashboard\\reviews.js -> @/modules/Dashboard/Reviews": {
+    "id": 76964,
+    "files": [
+      "static/chunks/6964.550851b1bf5f67ff.js"
+    ]
+  },
+  "pages\\dashboard\\settings.js -> @/modules/Dashboard/Settings": {
+    "id": 31483,
+    "files": [
+      "static/chunks/1483.c3ef40f54ba1e57a.js"
+    ]
+  },
+  "pages\\dashboard\\wishlist.js -> @/modules/Dashboard/Wishlist": {
+    "id": 15728,
+    "files": [
+      "static/chunks/5728.b0f7c15b0eac9f44.js"
+    ]
+  },
+  "pages\\dashboard\\withdrawals.js -> @/modules/Dashboard/Withdrawals": {
+    "id": 33738,
+    "files": [
+      "static/chunks/3738.d57e1bf54de15a13.js"
+    ]
+  },
+  "pages\\event\\[slug]\\index.js -> @/modules/EventDetails": {
+    "id": 54147,
+    "files": [
+      "static/chunks/4147.932a471a5ed03532.js"
+    ]
+  },
+  "pages\\event\\index.js -> @/modules/Event": {
+    "id": 85344,
+    "files": [
+      "static/chunks/5344.7c6474f31b9b7f03.js"
+    ]
+  },
+  "pages\\event\\two.js -> @/modules/EventTwo": {
+    "id": 9787,
+    "files": [
+      "static/chunks/9787.0509d7f4af17efdc.js"
+    ]
+  },
+  "pages\\home-2\\index.js -> @/modules/HomeTwo": {
+    "id": 19050,
+    "files": [
+      "static/css/f08150324baca4d3.css",
+      "static/chunks/8929.be87f2342002d69c.js",
+      "static/chunks/3976.7fe623b1d0defdc7.js",
+      "static/chunks/9050.3c3deb31dd5eed86.js"
+    ]
+  },
+  "pages\\index.js -> @/modules/HomeOne": {
+    "id": 99946,
+    "files": [
+      "static/css/f08150324baca4d3.css",
+      "static/chunks/1239.8f0d1eb28d4a32db.js",
+      "static/chunks/8929.be87f2342002d69c.js",
+      "static/chunks/3976.7fe623b1d0defdc7.js",
+      "static/chunks/9946.aa0e595252fadee2.js"
+    ]
+  },
+  "pages\\instructor\\[slug]\\index.js -> @/modules/InstructorDetails": {
+    "id": 52854,
+    "files": [
+      "static/chunks/2854.46d7db8e97923143.js"
+    ]
+  },
+  "pages\\instructor\\index.js -> @/modules/Instructor": {
+    "id": 8749,
+    "files": [
+      "static/chunks/8749.14c0483ca1f32af4.js"
+    ]
+  },
+  "pages\\instructor\\registration.js -> @/modules/SignUp/Instructor": {
+    "id": 61451,
+    "files": [
+      "static/chunks/1451.f37c5f1c91542267.js"
+    ]
+  },
+  "pages\\lesson\\[slug]\\index.js -> @/modules/LessonDetails": {
+    "id": 77096,
+    "files": [
+      "static/chunks/1664-9ef36206028e4ef5.js",
+      "static/chunks/7096.bf7a8086589312ca.js"
+    ]
+  },
+  "pages\\meeting\\[slug]\\index.js -> @/modules/MeetingDetails": {
+    "id": 37488,
+    "files": [
+      "static/chunks/7488.67a6cbe92283512d.js"
+    ]
+  },
+  "pages\\meeting\\index.js -> @/modules/Meeting": {
+    "id": 46913,
+    "files": [
+      "static/chunks/6913.181f8c3ccc0e18cc.js"
+    ]
+  },
+  "pages\\pricing.js -> @/modules/Pricing": {
+    "id": 64181,
+    "files": [
+      "static/chunks/4181.8d2b8d19250a606d.js"
+    ]
+  },
+  "pages\\signin.js -> @/modules/SignIn": {
+    "id": 34050,
+    "files": [
+      "static/chunks/4050.251ca291a47d95b5.js"
+    ]
+  },
+  "pages\\signup.js -> @/modules/SignUp": {
+    "id": 47542,
+    "files": [
+      "static/chunks/7542.6ba7faf154575aee.js"
+    ]
+  }
+}
